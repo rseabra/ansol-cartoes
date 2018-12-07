@@ -66,8 +66,8 @@
      id="namedview1592"
      showgrid="true"
      inkscape:zoom="1.6820163"
-     inkscape:cx="135.54377"
-     inkscape:cy="28.632287"
+     inkscape:cx="-0.0078295891"
+     inkscape:cy="26.254189"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
@@ -130,6 +130,7 @@
      sodipodi:role="line">Associação Nacional para o Software Livre</tspan></text>
 
 
+
 <g
    transform="matrix(1.3865937,0,0,1.3865937,-43.378147,-186.59857)"
    id="g1659"><g
@@ -155,6 +156,7 @@
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.55285263px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#44ffff;fill-opacity:1;stroke-width:0.13929372">.org</tspan></text>
 
 
+
 </g></g><flowRoot
    xml:space="preserve"
    id="flowRoot842"
@@ -177,4 +179,16 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Dosis;-inkscape-font-specification:'Dosis, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.75"
      id="tspan854">Rua Mouzinho da Silveira, 234/6/8, 4050-417 Porto</tspan></text>
 
+
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+   x="89.014473"
+   y="560.91925"
+   id="text852-3"><tspan
+     sodipodi:role="line"
+     x="89.014473"
+     y="560.91925"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Dosis;-inkscape-font-specification:'Dosis, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.75"
+     id="tspan854-6">contacto@ansol.org</tspan></text>
 </g></svg>
