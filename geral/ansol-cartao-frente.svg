@@ -74,8 +74,8 @@
      id="namedview1592"
      showgrid="true"
      inkscape:zoom="1.6820163"
-     inkscape:cx="149.81236"
-     inkscape:cy="23.876091"
+     inkscape:cx="14.26076"
+     inkscape:cy="21.497993"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
@@ -123,38 +123,42 @@
    y="428.0314"
    ry="0" />
 
-<text
-   xml:space="preserve"
-   style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="19.681673"
-   y="527.54999"
-   id="text6008"><tspan
-     sodipodi:role="line"
-     id="tspan6006"
-     x="19.681673"
-     y="527.54999"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Dosis;-inkscape-font-specification:'Dosis, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.75">Associação Nacional para o Software Livre</tspan></text>
+
 <g
-   transform="matrix(0.64471355,0,0,-0.64471355,9.7956263,515.79888)"
-   inkscape:label="ink_ext_XXXXXX"
-   id="g1732"
-   style="filter:url(#filter1745)"><g
-     transform="scale(0.1)"
-     id="g1734"><path
-       inkscape:connector-curvature="0"
-       id="path1736"
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-       d="m 0,0 v 200 c 0,66.273 53.7266,120 120,120 h 240 c 66.273,0 120,-53.727 120,-120 V 0 H 400 V 120 H 80 V 0 Z m 80,200 v 0 c 0,22.09 17.9102,40 40,40 h 240 c 22.09,0 40,-17.91 40,-40 z M 560,0 v 200 c 0,66.273 53.727,120 120,120 h 240 c 66.273,0 120,-53.727 120,-120 V 0 h -80 v 200 c 0,22.09 -17.91,40 -40,40 H 680 c -22.09,0 -40,-17.91 -40,-40 V 0 Z m 580,0 h 360 c 55.23,0 100,44.7734 100,100 0,55.227 -44.77,100 -100,100 h -280 c -11.04,0 -20,8.957 -20,20 0,11.043 8.96,20 20,20 h 360 v 80 h -360 c -55.23,0 -100,-44.773 -100,-100 0,-55.227 44.77,-100 100,-100 h 280 c 11.04,0 20,-8.957 20,-20 0,-11.043 -8.96,-20 -20,-20 h -360 z m 540,120 v 80 c 0,66.273 53.73,120 120,120 h 240 c 66.27,0 120,-53.727 120,-120 V 120 C 2160,53.7266 2106.27,0 2040,0 h -240 c -66.27,0 -120,53.7266 -120,120 z m 80,0 v 80 c 0,22.09 17.91,40 40,40 h 240 c 22.09,0 40,-17.91 40,-40 v -80 c 0,-22.0898 -17.91,-40 -40,-40 h -240 c -22.09,0 -40,17.9102 -40,40 z m 480,200 V 120 C 2240,53.7266 2293.73,0 2360,0 h 280 v 80 h -280 c -22.09,0 -40,17.9102 -40,40 v 200" /></g></g><text
-   xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.30100346px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#458fe7;fill-opacity:1;stroke:none;stroke-width:0.19314378;"
-   x="181.39778"
-   y="515.78693"
-   id="text871"><tspan
-     sodipodi:role="line"
-     id="tspan869"
-     x="181.39778"
-     y="515.78693"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.49845505px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#458fe7;fill-opacity:1;stroke-width:0.19314378;">.org</tspan></text>
+   id="g858"><text
+     id="text6008"
+     y="527.54999"
+     x="19.681673"
+     style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Dosis;-inkscape-font-specification:'Dosis, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.75"
+       y="527.54999"
+       x="19.681673"
+       id="tspan6006"
+       sodipodi:role="line">Associação Nacional para o Software Livre</tspan></text>
+<g
+     id="g848"><g
+       transform="matrix(0.64471355,0,0,-0.64471355,9.7956263,515.79888)"
+       inkscape:label="ink_ext_XXXXXX"
+       id="g1732"
+       style="filter:url(#filter1745)"><g
+         transform="scale(0.1)"
+         id="g1734"><path
+           inkscape:connector-curvature="0"
+           id="path1736"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           d="m 0,0 v 200 c 0,66.273 53.7266,120 120,120 h 240 c 66.273,0 120,-53.727 120,-120 V 0 H 400 V 120 H 80 V 0 Z m 80,200 v 0 c 0,22.09 17.9102,40 40,40 h 240 c 22.09,0 40,-17.91 40,-40 z M 560,0 v 200 c 0,66.273 53.727,120 120,120 h 240 c 66.273,0 120,-53.727 120,-120 V 0 h -80 v 200 c 0,22.09 -17.91,40 -40,40 H 680 c -22.09,0 -40,-17.91 -40,-40 V 0 Z m 580,0 h 360 c 55.23,0 100,44.7734 100,100 0,55.227 -44.77,100 -100,100 h -280 c -11.04,0 -20,8.957 -20,20 0,11.043 8.96,20 20,20 h 360 v 80 h -360 c -55.23,0 -100,-44.773 -100,-100 0,-55.227 44.77,-100 100,-100 h 280 c 11.04,0 20,-8.957 20,-20 0,-11.043 -8.96,-20 -20,-20 h -360 z m 540,120 v 80 c 0,66.273 53.73,120 120,120 h 240 c 66.27,0 120,-53.727 120,-120 V 120 C 2160,53.7266 2106.27,0 2040,0 h -240 c -66.27,0 -120,53.7266 -120,120 z m 80,0 v 80 c 0,22.09 17.91,40 40,40 h 240 c 22.09,0 40,-17.91 40,-40 v -80 c 0,-22.0898 -17.91,-40 -40,-40 h -240 c -22.09,0 -40,17.9102 -40,40 z m 480,200 V 120 C 2240,53.7266 2293.73,0 2360,0 h 280 v 80 h -280 c -22.09,0 -40,17.9102 -40,40 v 200" /></g></g><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.30100346px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#458fe7;fill-opacity:1;stroke:none;stroke-width:0.19314378;"
+       x="181.39778"
+       y="515.78693"
+       id="text871"><tspan
+         sodipodi:role="line"
+         id="tspan869"
+         x="181.39778"
+         y="515.78693"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.49845505px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#458fe7;fill-opacity:1;stroke-width:0.19314378;">.org</tspan></text>
+</g></g>
 <flowRoot
    xml:space="preserve"
    id="flowRoot842"
@@ -179,6 +183,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-weight:normal;font-size:30px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -190,5 +195,6 @@
      y="560.91925"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Dosis;-inkscape-font-specification:'Dosis, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.75"
      id="tspan854-6">contacto@ansol.org</tspan></text>
+
 
 </g></svg>
